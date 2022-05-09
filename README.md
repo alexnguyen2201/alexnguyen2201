@@ -17,3 +17,18 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexnguyen2201&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnguyen2201)](https://git.io/streak-stats)
+
+
+
+<h2 align="center">My Github Stats</h2>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexnguyen2201&count_private=true&show_icons=true">
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexnguyen2201">
+</p>
